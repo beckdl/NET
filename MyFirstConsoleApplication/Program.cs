@@ -17,7 +17,7 @@ namespace MyFirstConsoleApplication
             location = "Wyoming";
             date = DateTime.Now.ToString("MM/dd/yyyy");
 
-            DateTime dtChristmas = new System.DateTime(2023, 12, 25);
+            DateTime dtChristmas = new System.DateTime(2024, 12, 25);
             DateTime today = DateTime.Now;
             TimeSpan christmas = dtChristmas - today;
 
